@@ -5,6 +5,8 @@ using namespace std;
 
 // Graph class represents a directed graph 
 // using adjacency list representation 
+// Author: Dhruv Patel
+//
 class Graph 
 { 
 	int V; // No. of vertices 
